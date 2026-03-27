@@ -2257,3 +2257,7 @@ Uptime: up 3 weeks, 1 day, 20 hours, 25 minutes
 Weather: render failed: response missing current_condition array
 Uptime: up 3 weeks, 2 days, 13 hours, 46 minutes
 
+### 2026-03-27 10:34
+Weather: weather fetch failed: unexpected status code: 500
+Uptime: up 3 weeks, 2 days, 13 hours, 56 minutes
+
