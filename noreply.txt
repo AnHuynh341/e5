@@ -2445,3 +2445,7 @@ Uptime: up 5 weeks, 16 hours, 58 minutes
 Weather: 36°C Sunny
 Uptime: up 5 weeks, 19 hours, 42 minutes
 
+### 2026-04-09 11:00
+Weather: render failed: response missing current_condition array
+Uptime: up 5 weeks, 1 day, 14 hours, 22 minutes
+
